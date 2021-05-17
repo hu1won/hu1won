@@ -9,6 +9,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
+<br/>
+
+### 💫 Experience
+- **test** - test *(Jan 2021 ~)*
+- **test** - test *(Jan 2020 - Jul 2020)*
+- **test** - test *(2019-2020)*  
+<br/>
+
 <br/>  
 
 
