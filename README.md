@@ -9,9 +9,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
-<p align="center">
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu1won&show_icons=true&theme=radical)
-</p>
+</div>
 
 <!--
 **hu1won/hu1won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
