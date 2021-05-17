@@ -1,4 +1,4 @@
-### 💫 Stack
+### Stack
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 
 <br/>
 
-### 💫 Experience
+### Experience
 - **test** - test *(Jan 2021 ~)*
 - **test** - test *(Jan 2020 - Jul 2020)*
 - **test** - test *(2019-2020)*  
