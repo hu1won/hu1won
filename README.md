@@ -1,7 +1,7 @@
 ### Hello, I'm Huiwon Kim!
 I am a developer in South Korea 🇰🇷.
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhu1won&count_bg=%233D89C8&title_bg=%23555555&icon=github.svg&icon_color=%23EFEFEF&title=visit&edge_flat=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhu1won&count_bg=%23ECED0F&title_bg=%23555555&icon=github.svg&icon_color=%23EFEFEF&title=visit&edge_flat=true)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
