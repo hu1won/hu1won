@@ -16,12 +16,6 @@ I am a developer in South Korea 🇰🇷.
 
 <br/>   
 
-<a href="https://github.com/hu1won/hu1won">
-
-![](https://github.com/hu1won/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
-</a>
 
 <!-- ### Programming Languages
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
