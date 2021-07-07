@@ -16,9 +16,9 @@ I am a developer in South Korea 🇰🇷.
 
 <br/>   
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/hu1won/hu1won">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/hu1won/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
 </a>
