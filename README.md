@@ -3,7 +3,7 @@ I am a developer in South Korea 🇰🇷.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhu1won&count_bg=%239C9C98&title_bg=%23555555&icon=github.svg&icon_color=%23EFEFEF&title=visit&edge_flat=true)](https://github.com/hu1won)
 
-<div style="text-align: right">[![commitcombo](http://commitcombo.com/get?user=hu1won&theme=DeepOcean-mini)](https://github.com/hu1won)</div>
+<div style="text-align: right">![commitcombo](http://commitcombo.com/get?user=hu1won&theme=DeepOcean-mini)</div>
 
 
 ## Github Stats  
