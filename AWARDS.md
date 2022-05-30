@@ -11,6 +11,7 @@
 #### 8. GUI를 활용한 국방휴가관리시스템
 #### 9. Access Control System 온도 측정 및 출입 통제 시스템
 #### 10. React / SVG 활용 반응형 홈페이지 제작
+#### 11. 플러터를 이용한 중고 거래 플랫폼 APP 제작
 
 ## Outsourcing
 
