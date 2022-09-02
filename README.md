@@ -6,7 +6,7 @@ I am a developer in South Korea 🇰🇷.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=hu1won&include_all_commits=true&count_private=true&title_color=003230&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="left" style="width: 100%" />](https://github.com/hu1won)
+[<img src="https://github-readme-stats.vercel.app/api?username=hu1won&include_all_commits=true&count_private=true&title_color=003230&show_icons=true&hide_border=true&role=OWNER,COLLABORATOR" align="left" style="width: 100%" />](https://github.com/hu1won)
 
 </td><td valign="top" width="50%">
 
