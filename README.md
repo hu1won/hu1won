@@ -16,12 +16,6 @@ I am a developer in South Korea 🇰🇷.
 
 <br/>   
   
-<!--
-### Experience
-- **test** - test *(Jan 2021 ~)*
-- **test** - test *(Jan 2020 - Jul 2020)*
-- **test** - test *(2019-2020)*  
-<br/> --!>
 
 <!--
 **hu1won/hu1won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
